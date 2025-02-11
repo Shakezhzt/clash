@@ -9,7 +9,7 @@
 
 # 配置参数
 BACKEND_URL="http://192.168.2.1:5000/"  # 转换后端地址
-SUBSCRIPTION_URL="https://hongxingdl.com/hxvip?token=b59cecffb4959ec4fb522e1acf4f97ed"  # 订阅地址
+SUBSCRIPTION_URL=""  # 订阅地址
 TEMPLATE_URL="https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/config/singbox/config_tproxy.json"  # 配置文件（规则模板)
 TPROXY_PORT=7895  # sing-box tproxy 端口，和配置文件（规则模板）里的端口一致！
 PROXY_FWMARK=1
