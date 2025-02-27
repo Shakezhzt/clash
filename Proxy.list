@@ -33,14 +33,14 @@ DOMAIN-SUFFIX,plexmediaserver.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,ipinfo.io
-DOMAIN-SUFFIX,ip-score.com
-DOMAIN-SUFFIX,dnsleaktest.com
+# DOMAIN-SUFFIX,ip-score.com
+# DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,asiassn.com
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.org
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,surfsharkdns.com
+# DOMAIN-SUFFIX,ipleak.net
+# DOMAIN-SUFFIX,browserleaks.com
+# DOMAIN-SUFFIX,browserleaks.org
+# DOMAIN-SUFFIX,browserleaks.net
+# DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,qichiyu.com
 
