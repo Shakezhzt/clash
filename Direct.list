@@ -7,15 +7,12 @@ DOMAIN-SUFFIX,txmt2.com
 DOMAIN-SUFFIX,zhaoyt2.com
 DOMAIN-SUFFIX,ljfbz.com
 DOMAIN-SUFFIX,69mj.com
-
 # github代理加速
 DOMAIN-SUFFIX,geekery.cn
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,github.moeyy.xyz
-
 # MyList
-# 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
