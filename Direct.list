@@ -1,20 +1,21 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # 域名后缀匹配
-+.asuscomm.com
-+.csyxymx.xyz
-+.lanrentingshu.com
-+.cz0101.com
-+.czzy.site
-+.czzymovie.com
-+.speedtest.net
-+.speedtest.im
-+.yanbaoke.com
-+.yt2d.com
-+.yt2004.com
-+.yitian2.com
-+.txmt2.com
-+.zhaoyt2.com
-+.ljfbz.com
-+.69mj.com
+DOMAIN-SUFFIX,asuscomm.com
+DOMAIN-SUFFIX,csyxymx.xyz
+DOMAIN-SUFFIX,lanrentingshu.com
+DOMAIN-SUFFIX,cz0101.com
+DOMAIN-SUFFIX,czzy.site
+DOMAIN-SUFFIX,czzymovie.com
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.im
+DOMAIN-SUFFIX,yanbaoke.com
+DOMAIN-SUFFIX,yt2d.com
+DOMAIN-SUFFIX,yt2004.com
+DOMAIN-SUFFIX,yitian2.com
+DOMAIN-SUFFIX,txmt2.com
+DOMAIN-SUFFIX,zhaoyt2.com
+DOMAIN-SUFFIX,ljfbz.com
+DOMAIN-SUFFIX,69mj.com
+DOMAIN-SUFFIX,cz4k.com/
 
 
